@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Digitaalinen palvelu</strong>, Moi!. Demottelut."
+hero_text: "<strong>Digitaalinen palvelu</strong>, Moi! <br>Demottelut toimivat lähes
+  aina."
 title: Hero
 
 ---
